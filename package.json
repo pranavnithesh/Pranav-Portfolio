@@ -9,5 +9,17 @@
   "keywords": [],
   "author": "",
   "license": "ISC",
+  "scripts": {
+    "build": "browserify index.js -o bundle.js",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pranavnithesh/Test.git"
+  },
+  "bugs": {
+    "url": "https://github.com/pranavnithesh/Test/issues"
+  },
+  "homepage": "https://github.com/pranavnithesh/Test#readme",
   "description": ""
 }
